@@ -1,0 +1,146 @@
+/* General container for the contact page */
+.contact-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    justify-content: flex-start; /* Align content to the top */
+    align-items: center;
+    padding: 20px;
+}
+
+/* Styles for the outer container (the body of the page) */
+.contact-body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start; /* Align the content to the top */
+    padding: 20px;
+    gap: 30px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: red;
+}
+
+/* Wrapper to center content inside the body */
+.contact-body-inner {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Styles for each column */
+.contact-column {
+    flex: 1;
+    max-width: 45%; /* Limits the width of each column */
+}
+
+/* Contact Info section styles */
+.contact-info h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.contact-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-info li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.contact-social-icons {
+    margin-top: 20px;
+}
+
+.contact-icon {
+    font-size: 30px;
+    margin-right: 15px;
+    color: #333;
+    text-decoration: none;
+}
+
+.contact-icon:hover {
+    color: #007BFF;
+}
+
+/* Social media icons */
+.contact-facebook-icon {
+    color: #3b5998;
+}
+
+.contact-youtube-icon {
+    color: #FF0000;
+}
+
+.contact-whatsapp-icon {
+    color: #25D366;
+}
+
+/* Message Form section styles */
+.contact-message h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.contact-form-group {
+    margin-bottom: 15px;
+}
+
+.contact-form-group label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.contact-form-group input, .contact-form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-form-group textarea {
+    resize: vertical;
+    height: 150px;
+}
+
+.contact-submit-btn {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.contact-submit-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Footer Styles */
+footer {
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    margin-top: auto; /* Ensures footer stays at the bottom of the page */
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .contact-container {
+        flex-direction: column; /* Stack the columns for smaller screens */
+    }
+
+    .contact-column {
+        max-width: 100%; /* Take full width of the container */
+        margin-bottom: 20px; /* Add some space between the columns */
+    }
+}
