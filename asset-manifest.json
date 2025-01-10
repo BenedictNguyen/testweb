@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/testweb/static/css/main.12aeca4e.css",
+    "main.js": "/testweb/static/js/main.d01696ed.js",
+    "static/media/img7.JPG": "/testweb/static/media/img7.a9f04b49a103f833cd70.JPG",
+    "static/media/img10.JPG": "/testweb/static/media/img10.fcfacbd59872ef62efba.JPG",
+    "static/media/img8.JPG": "/testweb/static/media/img8.508ceec10258f144b285.JPG",
+    "static/media/img4.JPG": "/testweb/static/media/img4.8399298359e00713b128.JPG",
+    "static/media/img9.JPG": "/testweb/static/media/img9.c5a3955868aadc7b1216.JPG",
+    "static/media/img1.JPG": "/testweb/static/media/img1.b6fe4e3eb4517f84c2e7.JPG",
+    "static/media/img5.JPG": "/testweb/static/media/img5.9869fa5ecfe2991770c8.JPG",
+    "static/media/img2.JPG": "/testweb/static/media/img2.7574a4795d6da3a3604d.JPG",
+    "static/media/img3.JPG": "/testweb/static/media/img3.8b447158aeaf82a2d30a.JPG",
+    "static/media/img6.JPG": "/testweb/static/media/img6.cb05946ce8f473302848.JPG",
+    "static/media/banner.png": "/testweb/static/media/banner.5ab7df6e46ffcec236b9.png",
+    "static/media/banner2.png": "/testweb/static/media/banner2.e5ae944ddf5aeae4aad1.png",
+    "static/media/writing.png": "/testweb/static/media/writing.0519570a045b269a0a02.png",
+    "static/media/reading.png": "/testweb/static/media/reading.535b4f7b02f11e731316.png",
+    "static/media/listening.png": "/testweb/static/media/listening.e4ec1def9a0691c5011a.png",
+    "static/media/img2.jpg": "/testweb/static/media/img2.447c6710430bd7122860.jpg",
+    "static/media/backgoundImg2.png": "/testweb/static/media/backgoundImg2.bbc673ec5cb45fa029f5.png",
+    "static/media/speaking.png": "/testweb/static/media/speaking.ac2bd93f643e43a05d25.png",
+    "static/media/backgoundImg.png": "/testweb/static/media/backgoundImg.348d96b441a876a89e75.png",
+    "static/media/img3.jpg": "/testweb/static/media/img3.bd1bc332c764ffdd3389.jpg",
+    "static/media/bg-news5.jpg": "/testweb/static/media/bg-news5.bde713382647ee7d803c.jpg",
+    "static/media/LICH-KHAI-GIANG.png": "/testweb/static/media/LICH-KHAI-GIANG.48e3f5d0c924715265c8.png",
+    "static/media/BAN-DANG-O-MUC-NAO-1.png": "/testweb/static/media/BAN-DANG-O-MUC-NAO-1.f3a8c9e7d77e7bfad178.png",
+    "static/media/LO-TRINH.png": "/testweb/static/media/LO-TRINH.d78d58b77aa03c996f5f.png",
+    "static/media/banner.jpg": "/testweb/static/media/banner.34efe000493b7b27641d.jpg",
+    "static/media/logo1.png": "/testweb/static/media/logo1.ce1afb7e00b5e762b9b3.png",
+    "static/media/img1.jpg": "/testweb/static/media/img1.7c61db464422b7f9fee4.jpg",
+    "index.html": "/testweb/index.html",
+    "main.12aeca4e.css.map": "/testweb/static/css/main.12aeca4e.css.map",
+    "main.d01696ed.js.map": "/testweb/static/js/main.d01696ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12aeca4e.css",
+    "static/js/main.d01696ed.js"
+  ]
+}
